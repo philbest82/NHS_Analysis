@@ -64,10 +64,12 @@ Data was sourced from NHS England and included appointment volume, attendance, m
 
 ## 📂 Files in This Repository
 
-- `nhs_capacity_analysis.ipynb` — Full Python notebook
+- `Phil_Best_NHS_Python.ipynb` — Full Python notebook
+- `Phil_Best_NHS_Technical_Report` - Technical Report mapping to Python Script
+- `Phil_Best_NHS_Presentation` - PowerPoint Presentation of findings and recommendations
 - `actual_duration.csv` — Raw data
 - `appointments_regional.csv` — Raw data
-- `national_categories.xlsx` — Categorical definitions
+- `national_categories.xlsx` — Raw data
 - `README.md` — You are here
 
 ---
