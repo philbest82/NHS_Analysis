@@ -3,7 +3,7 @@
 **Author:** Phil Best  
 **Tools Used:** Python, pandas, seaborn, matplotlib
 
-## 📌 Objective
+## 🎯 Objective
 
 To assess whether the NHS has sufficient appointment capacity to meet national demand, and to explore how healthcare resources are currently being utilized. The analysis supports decision-making around staffing, scheduling, and service delivery.
 
