@@ -67,9 +67,9 @@ Data was sourced from NHS England and included appointment volume, attendance, m
 - `Phil_Best_NHS_Python.ipynb` — Full Python notebook
 - `Phil_Best_NHS_Technical_Report` - Technical Report mapping to Python Script
 - `Phil_Best_NHS_Presentation` - PowerPoint Presentation of findings and recommendations
-  - [appointments_regional.csv (38MB)] (https://drive.google.com/file/d/1IZPEE7YD-L0zqgakuVEBQmLNY1IzlUWC/view?usp=sharing)
-  - [national_categories.xlsx` (27MB)] (https://docs.google.com/spreadsheets/d/1K033bxF_fnA5s79uCy0N_CXY9EjJoPRC/edit?usp=sharing&ouid=112416145526245624266&rtpof=true&sd=true)
-  - [actual_duration.csv` (14MB)] (https://drive.google.com/file/d/1okZIwpT8QLsc-LJwo9l6CkB37dEpa13-/view?usp=sharing)
+- [appointments_regional.csv (38MB)](https://drive.google.com/file/d/1IZPEE7YD-L0zqgakuVEBQmLNY1IzlUWC/view?usp=sharing)
+- [national_categories.xlsx` (27MB)](https://docs.google.com/spreadsheets/d/1K033bxF_fnA5s79uCy0N_CXY9EjJoPRC/edit?usp=sharing&ouid=112416145526245624266&rtpof=true&sd=true)
+- [actual_duration.csv` (14MB)](https://drive.google.com/file/d/1okZIwpT8QLsc-LJwo9l6CkB37dEpa13-/view?usp=sharing)
 - `README.md` — You are here
 
 ---
